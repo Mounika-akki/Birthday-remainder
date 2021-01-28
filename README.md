@@ -1,3 +1,3 @@
 #This Birthday Remainder is created with ReactJS concentrating on usage of useState hook.
 Deployed Netlify url :- 
-https://inspiring-yonath-c8a125.netlify.app/
+https://boring-fermi-c0024b.netlify.app/
