@@ -19,14 +19,14 @@ export default [
   },
   {
     id: 4,
-    name: "Sean Walsh",
+    name: "Tweety",
     age: 2,
     image: "../images/tweety.png",
   },
   {
     id: 5,
-    name: "Lola Gardner",
-    age: 29,
+    name: "Mickey",
+    age: 10,
     image: "../images/mickey.jpg",
   },
 ];
